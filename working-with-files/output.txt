@@ -1,0 +1,7 @@
+Drink type: juice
+Matching drinks:
+Apple Juice; bottles: 10; unit price: 100.00; stock value: 1000.00
+Orange Juice; bottles: 5; unit price: 60.00; stock value: 300.00
+Total bottles: 15
+Total stock value: 1300.00
+Most expensive stock: Coffee; type: coffee; bottles: 2; unit price: 800.00; stock value: 1600.00
